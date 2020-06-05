@@ -1,4 +1,4 @@
-Django==1.5.1
+Django==1.11.29
 Fabric==1.8.1
 django-generate-scaffold==0.0.5a0
 djangorestframework==2.3.12
